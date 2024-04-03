@@ -1,0 +1,78 @@
+.web-header{
+    height: 10vh;
+    border: 0.3vh solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins";
+    background-color: silver;
+}
+
+.home-button {
+    margin-right: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    width: 100px;
+    background-color: silver;
+}
+
+.parti-button {
+    margin-right: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    width: 100px;
+    background-color: silver;
+}
+
+.about-button {
+    margin-right: 50px;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    width: 100px;
+    background-color: silver;
+}
+
+.logout-button {
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    width: 100px;
+    background-color: silver;
+}
+
+.web-page {
+    img {
+    width: 100px;
+    margin-left: 15px;
+    }
+    margin-top: 50px;
+    border: 0.3vh solid;
+    align-items: center;
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 130px;
+}
+
+.nama-text {
+    margin-left: 10px;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+
+}
+
+.rule-text {
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
